@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, Node, TypeScript**
 
-- 👨‍💻 All of my projects are available at [kpwebdevelopment.com](kpwebdevelopment.com)
+- 👨‍💻 All of my projects are available at [kpwebdevelopment.com](https://kpwebdevelopment.com)
 
 - 💬 Ask me about **JavaScript, Web Applications**
 
